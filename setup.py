@@ -5,7 +5,7 @@ with open('README.md') as f:
 
 setup(
   name = 'Color-Palette-Generator',
-  version = '0.0.2',
+  version = '0.0.4',
   license='MIT',
   description = 'Generate Colour Palettes with Python',
   long_description=long_description,
